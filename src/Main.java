@@ -15,6 +15,7 @@ public class Main {
         FlyingBird albatros = new FlyingBird("Альбатрос", 3, "Южном океане и в северной части Тихого океана", 80, "полет");
         FlyingBird sokol = new FlyingBird("Сокол", 10, "Россия", 320, "полет");
 
+        System.out.println("Домашка 3");
         System.out.println(gazel);
         System.out.println(giraf);
         System.out.println(loshad);
